@@ -1,0 +1,17 @@
+.erai-product-review-image-container figure img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.erai-product-review-image-container .photoswipe-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.erai-product-review-image-container figure {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
